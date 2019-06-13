@@ -1,1 +1,2 @@
+- [02. 加薪必备 Python 黑科技之 asyncio 加持下的协程](https://www.bilibili.com/video/av55423239)
 - [01. 加薪必备 Python 黑科技之 descriptor 入门](https://www.bilibili.com/video/av54951543)
